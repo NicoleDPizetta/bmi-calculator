@@ -30,6 +30,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <img src='./assets/screenshots/desktop.png'>
 
+#### Alguns resultados
+
+<img width='350px' src='./assets/screenshots/result-red-low.png' />
+<img width='350px' src='./assets/screenshots/result-normal.png'>
+<img width='350px' src='./assets/screenshots/result-red.png'>
+<img width='350px' src='./assets/screenshots/result-normal2.png'>
+
 #### Mobile
 
 <img src='./assets/screenshots/iphone12pro.png'>
@@ -37,13 +44,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 #### Tablet
 
 <img src='./assets/screenshots/tablet.png'>
-
-#### Alguns resultados
-
-<img width='450px' src='./assets/screenshots/result-red-low.png' />
-<img width='450px' src='./assets/screenshots/result-normal.png'>
-<img width='450px' src='./assets/screenshots/result-red.png'>
-<img width='450px' src='./assets/screenshots/result-normal2.png'>
 
 ## 👉🏻 Recursos úteis
 
